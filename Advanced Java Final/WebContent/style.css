@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+body{
+background-color: #00cc99;
+text-align: center;
+border-style: solid;
+border-width: 4px;
+padding-top: 50px;
+padding-right: 30px;
+padding-bottom: 50px;
+padding-left: 80px;
+
+}
+form{
+background-color: lightblue;
+display: inline-block;
+}
+
+input[type=text]{
+width:100px;
+background-color: lightgrey;
+}
